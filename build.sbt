@@ -1,4 +1,7 @@
 organization := "Large organization"
 
-// this is the only required property in the build.sbt file
-sbt.version := "0.13.11"
+name := "test"
+
+version := "1.0.0-SNAPSHOT"
+
+scalaVersion := "2.11.8"
